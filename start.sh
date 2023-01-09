@@ -1,2 +1,0 @@
-pip install visdom
-visdom

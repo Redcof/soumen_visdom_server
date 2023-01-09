@@ -1,1 +1,2 @@
-web: sh start.sh
+chmod u+x release.sh && ./app.sh
+web: visdom
